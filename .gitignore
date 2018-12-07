@@ -1,0 +1,6 @@
+.idea/
+Doxyfile
+cmake-build-debug/
+html/
+latex/
+main.c
